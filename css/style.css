@@ -242,8 +242,22 @@ img{
         font-size: 14px;
         margin-left: -9%;
     }
-    #main-header ul li{
-
+    .services ul{
+        padding: 0px!important;
+    }
+    .contact form input[type="text"]{
+        width: 100%;
+        
+    
+    }
+    .contact form textarea{
+        width: 100%;
+        height: 100px;
+    }
+    
+    .contact form button{
+        width: 100%;
+        
     }
     /* #navbar{
         margin: 0!important;
