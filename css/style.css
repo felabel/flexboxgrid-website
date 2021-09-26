@@ -258,6 +258,12 @@ img{
     .contact form button{
         width: 100%;
         
+   }
+
+
+   #features h2 {
+        margin-top: 20px! important;
+        
     }
     /* #navbar{
         margin: 0!important;
